@@ -1,6 +1,3 @@
-html {
-    font-family: 'Roboto Slab', serif;
-}
 
 .train-header {
     padding-bottom: 45px;
@@ -12,6 +9,10 @@ html {
 
 .schedule-list {
     margin-bottom: 65px;
+}
+
+h3 {
+    font-family: 'Roboto Slab', serif;
 }
 
 #top-div {
