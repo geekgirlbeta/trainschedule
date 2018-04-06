@@ -1,0 +1,39 @@
+html {
+    font-family: 'Roboto Slab', serif;
+}
+
+.train-header {
+    padding-bottom: 45px;
+    padding-top: 25px;
+    margin: 0;
+    color: #ffffff;
+    font-family: 'Roboto Slab', serif;
+}
+
+.schedule-list {
+    margin-bottom: 65px;
+}
+
+#top-div {
+    padding-top: 25px;
+}
+
+#train-name-input:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 1px solid #01579b;
+}
+
+#destination-input:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 1px solid #01579b;
+}
+
+#first-train-input:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 1px solid #01579b;
+}
+
+#frequency-input:focus {
+    border-bottom: 1px solid #01579b;
+    box-shadow: 1px solid #01579b;
+}
